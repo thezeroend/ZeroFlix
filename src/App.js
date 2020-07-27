@@ -3,8 +3,9 @@ import Menu from './components/Menu';
 
 function App() {
   return (
-    <div>//style="{{ background: "#141414"}} >
+    <div>
       <Menu />
+
     </div>
   );
 }
